@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1350" viewBox="0 0 2000 1350" role="img" aria-labelledby="title desc">
+  <title id="title">个人创业每周认知复利飞轮</title>
+  <desc id="desc">具体创业项目尚未确定。通过真实探索、全过程文字沉淀和每周公开一次，同时维护全局认知与每周快照，持续把成功、失败与思考提炼为图片、短视频和体系化创业认知。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f8ff"/>
+      <stop offset="100%" stop-color="#eef9f5"/>
+    </linearGradient>
+    <linearGradient id="goal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff3c8"/>
+      <stop offset="100%" stop-color="#ffe5a0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#15233c" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#50627d"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#2864dc"/>
+    </marker>
+    <style>
+      .title { font: 700 54px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #15233c; }
+      .subtitle { font: 400 24px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #52627a; }
+      .goal-main { font: 700 34px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #6c4f00; }
+      .goal-sub { font: 500 23px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #806a2d; }
+      .engine-title { font: 700 30px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #17243a; }
+      .engine-sub { font: 400 20px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #5c6a7e; }
+      .step-title { font: 700 22px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #1b2a41; }
+      .step-sub { font: 400 18px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #59677b; }
+      .label { font: 600 19px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #52627a; }
+      .asset-title { font: 700 23px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #17243a; }
+      .asset-sub { font: 400 17px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #5c6a7e; }
+      .foot { font: 500 20px "PingFang SC", "Microsoft YaHei", sans-serif; fill: #52627a; }
+      .engine { fill: #ffffff; stroke: #d3ddeb; stroke-width: 2.5; filter: url(#shadow); }
+      .step { fill: #f8faff; stroke: #dce4ef; stroke-width: 1.8; }
+      .blue-step { fill: #eaf1ff; stroke: #9bb8f2; stroke-width: 2; }
+      .green-step { fill: #eaf8f1; stroke: #92d0ae; stroke-width: 2; }
+      .gold-step { fill: #fff5d8; stroke: #e5c55e; stroke-width: 2; }
+      .community-step { fill: #f2edff; stroke: #b8a6e8; stroke-width: 2; }
+      .asset { fill: #ffffff; stroke: #cbd6e5; stroke-width: 2; }
+      .guard { fill: #ffffff; stroke: #b4c2d4; stroke-width: 2; stroke-dasharray: 9 8; }
+      .edge { fill: none; stroke: #50627d; stroke-width: 3; marker-end: url(#arrow); }
+      .edge-blue { fill: none; stroke: #2864dc; stroke-width: 3.5; marker-end: url(#arrowBlue); }
+      .edge-dashed { fill: none; stroke: #6d7d92; stroke-width: 2.8; stroke-dasharray: 9 8; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="2000" height="1350" fill="url(#bg)"/>
+  <text x="1000" y="72" text-anchor="middle" class="title">个人创业每周认知复利飞轮</text>
+  <text x="1000" y="112" text-anchor="middle" class="subtitle">真实探索产生事实｜全过程形成文字｜两类知识并行｜每周如实发布一次</text>
+
+  <rect x="420" y="145" width="1160" height="120" rx="34" fill="url(#goal)" stroke="#e5c55e" stroke-width="2.5" filter="url(#shadow)"/>
+  <text x="1000" y="195" text-anchor="middle" class="goal-main">长期：通过创业赚到第 N 个 100 万元</text>
+  <text x="1000" y="235" text-anchor="middle" class="goal-sub">当前第一季：挑战第一个 100 万元｜真实、可追溯、按冻结口径进入个人账户</text>
+
+  <rect x="80" y="330" width="560" height="500" rx="34" class="engine"/>
+  <text x="360" y="382" text-anchor="middle" class="engine-title">① 真实创业探索</text>
+  <text x="360" y="416" text-anchor="middle" class="engine-sub">项目尚未确定，先发现问题再验证</text>
+
+  <rect x="130" y="455" width="460" height="75" rx="20" class="blue-step"/>
+  <text x="360" y="486" text-anchor="middle" class="step-title">发现并验证真实问题</text>
+  <text x="360" y="513" text-anchor="middle" class="step-sub">具体项目尚未确定，不预设方向</text>
+  <path d="M360 530 V553" class="edge"/>
+  <rect x="130" y="555" width="460" height="75" rx="20" class="step"/>
+  <text x="360" y="586" text-anchor="middle" class="step-title">小步行动与现实验证</text>
+  <text x="360" y="613" text-anchor="middle" class="step-sub">需求、方案、成本、合作与风险</text>
+  <path d="M360 630 V653" class="edge"/>
+  <rect x="130" y="655" width="460" height="75" rx="20" class="green-step"/>
+  <text x="360" y="686" text-anchor="middle" class="step-title">获得真实事实与反馈</text>
+  <text x="360" y="713" text-anchor="middle" class="step-sub">成功、失败、停滞、数据与未知</text>
+  <path d="M360 730 V753" class="edge"/>
+  <rect x="130" y="755" width="460" height="50" rx="18" class="gold-step"/>
+  <text x="360" y="788" text-anchor="middle" class="step-title">形成真实税后所得</text>
+
+  <rect x="720" y="330" width="560" height="500" rx="34" class="engine"/>
+  <text x="1000" y="382" text-anchor="middle" class="engine-title">② 全过程知识沉淀</text>
+  <text x="1000" y="416" text-anchor="middle" class="engine-sub">不只存周报，把过程编织成认知体系</text>
+
+  <rect x="770" y="455" width="460" height="75" rx="20" class="step"/>
+  <text x="1000" y="486" text-anchor="middle" class="step-title">沉淀带日期的正文草稿</text>
+  <text x="1000" y="513" text-anchor="middle" class="step-sub">目标、选择、行动、材料、结果与情感</text>
+  <path d="M1000 530 V553" class="edge"/>
+  <rect x="770" y="555" width="460" height="75" rx="20" class="green-step"/>
+  <text x="1000" y="586" text-anchor="middle" class="step-title">区分并复盘</text>
+  <text x="1000" y="613" text-anchor="middle" class="step-sub">事实、判断、输入、未知与修正分开</text>
+  <path d="M1000 630 V653" class="edge"/>
+  <rect x="770" y="655" width="460" height="75" rx="20" class="blue-step"/>
+  <text x="1000" y="686" text-anchor="middle" class="step-title">连接旧认识，提炼新结构</text>
+  <text x="1000" y="713" text-anchor="middle" class="step-sub">支持、修正或推翻原有判断</text>
+  <path d="M1000 730 V753" class="edge"/>
+  <rect x="770" y="755" width="460" height="50" rx="18" class="gold-step"/>
+  <text x="1000" y="788" text-anchor="middle" class="step-title">形成持续演化的创业认知体系</text>
+
+  <rect x="1360" y="330" width="560" height="500" rx="34" class="engine"/>
+  <text x="1640" y="382" text-anchor="middle" class="engine-title">③ 每周公开一次</text>
+  <text x="1640" y="416" text-anchor="middle" class="engine-sub">不等成功，每周同步真实变化</text>
+
+  <rect x="1410" y="455" width="460" height="75" rx="20" class="community-step"/>
+  <text x="1640" y="486" text-anchor="middle" class="step-title">同步本周真实进展</text>
+  <text x="1640" y="513" text-anchor="middle" class="step-sub">成功、失败、停滞与方向修正</text>
+  <path d="M1640 530 V553" class="edge"/>
+  <rect x="1410" y="555" width="460" height="75" rx="20" class="community-step"/>
+  <text x="1640" y="586" text-anchor="middle" class="step-title">提炼本周体系化认识</text>
+  <text x="1640" y="613" text-anchor="middle" class="step-sub">不是流水账，必须形成结构</text>
+  <path d="M1640 630 V653" class="edge"/>
+  <rect x="1410" y="655" width="460" height="75" rx="20" class="green-step"/>
+  <text x="1640" y="686" text-anchor="middle" class="step-title">正文 + 图片 + 简短视频</text>
+  <text x="1640" y="713" text-anchor="middle" class="step-sub">整包同步飞书，并回读验证</text>
+  <path d="M1640 730 V753" class="edge"/>
+  <rect x="1410" y="755" width="460" height="50" rx="18" class="blue-step"/>
+  <text x="1640" y="788" text-anchor="middle" class="step-title">收集反馈与最多 5 个真问题</text>
+
+  <path d="M640 565 H720" class="edge-blue"/>
+  <text x="680" y="542" text-anchor="middle" class="label">事实入库</text>
+  <path d="M1280 565 H1360" class="edge-blue"/>
+  <text x="1320" y="542" text-anchor="middle" class="label">结构表达</text>
+
+  <path d="M1640 830 C1640 900 1240 920 1000 875 C760 830 560 860 360 830" class="edge-dashed"/>
+  <text x="1000" y="905" text-anchor="middle" class="label">评论、问题与建议写回知识库，并推动下一周行动</text>
+
+  <path d="M1640 805 V930" class="edge-blue"/>
+  <rect x="1390" y="930" width="500" height="125" rx="26" class="gold-step"/>
+  <text x="1640" y="975" text-anchor="middle" class="step-title">每周公开表达</text>
+  <text x="1640" y="1010" text-anchor="middle" class="step-sub">每周一次｜一图一短视频</text>
+  <text x="1640" y="1038" text-anchor="middle" class="step-sub">简单、真实、连续，不追求复杂制作</text>
+
+  <path d="M1390 992 H1255" class="edge-blue"/>
+  <rect x="745" y="940" width="510" height="105" rx="26" class="gold-step"/>
+  <text x="1000" y="982" text-anchor="middle" class="step-title">知识库：两种组织形式</text>
+  <text x="1000" y="1018" text-anchor="middle" class="step-sub">先更新全局认知 → 再冻结每周快照｜全部有文字</text>
+
+  <rect x="80" y="930" width="560" height="125" rx="26" class="guard"/>
+  <text x="360" y="973" text-anchor="middle" class="step-title">每周更新纪律</text>
+  <text x="360" y="1008" text-anchor="middle" class="step-sub">没有成果也更新，不选择性报喜</text>
+  <text x="360" y="1036" text-anchor="middle" class="step-sub">每期至少留下进展、认知与下周验证</text>
+
+  <text x="1000" y="1125" text-anchor="middle" class="engine-title">长期留下的不是一批名单，而是五类可复利资产</text>
+
+  <rect x="120" y="1165" width="320" height="100" rx="24" class="asset"/>
+  <text x="280" y="1205" text-anchor="middle" class="asset-title">能力</text>
+  <text x="280" y="1238" text-anchor="middle" class="asset-sub">创业、执行、工具与表达</text>
+
+  <rect x="480" y="1165" width="320" height="100" rx="24" class="asset"/>
+  <text x="640" y="1205" text-anchor="middle" class="asset-title">知识</text>
+  <text x="640" y="1238" text-anchor="middle" class="asset-sub">架构、问答、复盘与边界</text>
+
+  <rect x="840" y="1165" width="320" height="100" rx="24" class="asset"/>
+  <text x="1000" y="1205" text-anchor="middle" class="asset-title">信用</text>
+  <text x="1000" y="1238" text-anchor="middle" class="asset-sub">长期兑现形成的个人 IP</text>
+
+  <rect x="1200" y="1165" width="320" height="100" rx="24" class="asset"/>
+  <text x="1360" y="1205" text-anchor="middle" class="asset-title">关系</text>
+  <text x="1360" y="1238" text-anchor="middle" class="asset-sub">自愿、受益、可退出的信任</text>
+
+  <rect x="1560" y="1165" width="320" height="100" rx="24" class="asset"/>
+  <text x="1720" y="1205" text-anchor="middle" class="asset-title">所得</text>
+  <text x="1720" y="1238" text-anchor="middle" class="asset-sub">真实可追溯的税后收入</text>
+
+  <text x="1000" y="1320" text-anchor="middle" class="foot">真诚不是把一切公开，而是不编造；坦诚不是没有边界，而是清楚说明事实、判断、未知与保密范围。</text>
+</svg>
